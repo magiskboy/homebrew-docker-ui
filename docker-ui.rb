@@ -1,4 +1,4 @@
-class DockerUI < Formula
+class DockerUi < Formula
   desc "Docker UI: Simplified web management for Docker containers."
   homepage "https://github.com/magiskboy/docker-ui"
   version "1.0.0"
